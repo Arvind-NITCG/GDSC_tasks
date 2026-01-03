@@ -1,8 +1,8 @@
-# 👁️ Handwritten Digit Recognition: A CNN Approach
+#  Handwritten Digit Recognition: A CNN Approach
 
 ### **Author:** Arvind K N
 **Project Context:** Intermediate Level Task (GDSC Induction).
-**Goal:** To build a Deep Learning model capable of recognizing handwritten digits (0-9) from the MNIST dataset with high precision (>99%).
+**Goal:** To build a Deep Learning model capable of recognizing handwritten digits (0-9) from the MNIST dataset with high precision.
 
 ---
 
@@ -65,7 +65,7 @@ Now that we have a map of "where the loops and lines are," we decide which digit
 
 ## 4. Results 🏆
 * **Dataset:** MNIST (60,000 Training, 10,000 Test images).
-* **Test Accuracy:** **~99.0%**
+* **Test Accuracy:** **~98.0%**
 * The model successfully learned to distinguish similar digits (like 1 vs 7, or 3 vs 8) by learning their unique geometric features.
 
 ---
